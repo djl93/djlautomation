@@ -12,6 +12,8 @@ params:
   socialIcons:
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/daniel-lloyd-b28533115"
+  label:
+    icon: "icon.png"
 
 menu:
   main:

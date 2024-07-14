@@ -1,0 +1,25 @@
+baseURL: ""
+languageCode: en-us
+title: DJL Automation
+theme: PaperMod
+
+params:
+  showBreadCrumbs: true
+  defaultTheme: dark
+  homeInfoParams:
+    Title: Precision in Control, Excellence in Automation 
+    Content: At DJL Automation, we specialize in delivering advanced control systems engineered to optimize your operations. With extensive experience in the underground coal mining industry, we excel in developing cutting-edge software for longwall mining and large conveyor systems. Our solutions enhance safety, efficiency, and productivity, ensuring reliable performance even in the harshest environments. Partner with DJL Automation to experience precision in control and excellence in automation, driving your operations towards unprecedented success.
+  socialIcons:
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/daniel-lloyd-b28533115"
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 1

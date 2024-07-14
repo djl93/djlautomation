@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on DJL Automation</title>
+    <link>//10.20.93.242:1313/posts/</link>
+    <description>Recent content in Posts on DJL Automation</description>
+    <generator>Hugo -- 0.123.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jul 2024 14:11:55 +1000</lastBuildDate>
+    <atom:link href="//10.20.93.242:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Importance Of Structured HMI Design</title>
+      <link>//10.20.93.242:1313/posts/importance_of_structure/</link>
+      <pubDate>Sun, 14 Jul 2024 14:11:55 +1000</pubDate>
+      <guid>//10.20.93.242:1313/posts/importance_of_structure/</guid>
+      <description>The Power of Structured PLC Code and Reusable Popups: Boosting Operator Efficiency In the realm of industrial automation, efficiency is paramount. Programmable Logic Controllers (PLCs) play a crucial role in managing and automating machinery and processes, ensuring smooth and reliable operation. However, the effectiveness of a PLC system isn&amp;rsquo;t solely dependent on the hardware; the software structure significantly impacts overall performance. This blog post explores the importance of structuring PLC code as objects and reusing popups, emphasizing how these practices enhance operator efficiency by minimizing unnecessary navigation.</description>
+    </item>
+  </channel>
+</rss>
